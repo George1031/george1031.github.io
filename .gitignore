@@ -1,8 +1,6 @@
-_site
-.sass-cache
-node_modules
-.DS_STORE
+*.gem
+.bundle
 .jekyll-cache
-.env
-.prettierignore
-.jekyll-metadata
+.sass-cache
+_site
+Gemfile.lock
