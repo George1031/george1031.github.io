@@ -114,8 +114,10 @@ google-analytics:
 
 ### END OF VALUES YOU SHOULD CHANGE ###
 
-plugins:
-  - "jekyll-github-metadata"
+#plugins:
+#  - "jekyll-github-metadata"
+
+plugins:["jekyll-paginate"]
 
 exclude:
   [
